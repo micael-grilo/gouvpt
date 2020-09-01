@@ -70,13 +70,13 @@ i[class^="icon-"] {
 }
 p {
 	font-family: "latoregular";
-	font-size: 16px;
+	font-size: 12px;
 	line-height: 22px;
 	/* margin: 0 0 15px 0 !important; */
 }
 a {
 	font-family: "latoregular";
-	font-size: 15px;
+	font-size: 11px;
 	line-height: 16px;
 	color: #3498DB;
 	text-decoration: none;

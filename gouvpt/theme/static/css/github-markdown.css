@@ -521,6 +521,7 @@
 .markdown-body ul,
 .markdown-body ol {
   padding-left: 2em;
+  font-size: 12px;
 }
 
 .markdown-body ul ul,
