@@ -59,7 +59,7 @@ body {
     margin: 0;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
-    line-height: 20px;
+    line-height: 21px;
     color: #333;
     background-color: white;
     -webkit-font-smoothing: antialiased;
@@ -71,7 +71,7 @@ i[class^="icon-"] {
 p {
 	font-family: "latoregular";
 	font-size: 12px;
-	line-height: 22px;
+	line-height: 18px;
 	/* margin: 0 0 15px 0 !important; */
 }s
 a {
